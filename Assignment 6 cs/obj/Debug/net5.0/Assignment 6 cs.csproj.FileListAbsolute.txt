@@ -1,0 +1,15 @@
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\bin\Debug\net5.0\Assignment 6 cs.exe
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\bin\Debug\net5.0\Assignment 6 cs.deps.json
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\bin\Debug\net5.0\Assignment 6 cs.runtimeconfig.json
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\bin\Debug\net5.0\Assignment 6 cs.runtimeconfig.dev.json
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\bin\Debug\net5.0\Assignment 6 cs.dll
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\bin\Debug\net5.0\Assignment 6 cs.pdb
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.AssemblyInfoInputs.cache
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.AssemblyInfo.cs
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.csproj.CoreCompileInputs.cache
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.dll
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\refint\Assignment 6 cs.dll
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.pdb
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\Assignment 6 cs.genruntimeconfig.cache
+D:\ROute Assingnments\BackEnd\C#\Assignment 6 cs\Assignment 6 cs\obj\Debug\net5.0\ref\Assignment 6 cs.dll
